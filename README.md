@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
   
-😄 I am [Trishan Chudasma](https://solo.to/trishan)
+😄 I am <a href="https://solo.to/trishan" target="-blank">Trishan Chudasma</a>
 
 🌱 I’m currently learning JavaScript on FreeCodeCamp
 

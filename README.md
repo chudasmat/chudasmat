@@ -1,6 +1,15 @@
-<h1 align="center>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
+
+  
+😄 I am [Trishan Chudasma](https://solo.to/trishan)
 
 🌱 I’m currently learning JavaScript on FreeCodeCamp
+
+🖋 This page contains projects that I have coded in my free time
+
+👯 I’m looking to collaborate on open-source projects and learn from others
+
+<hr>
 
 
 <!--

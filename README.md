@@ -3,8 +3,6 @@
   
 😄 I am <a href="https://solo.to/trishan" target="-blank">Trishan Chudasma</a>
 
-🌱 I’m currently learning Python on FreeCodeCamp.
-
 🖋 This page contains projects that I have coded in my free time.
 
 👯 I’m looking to collaborate on open-source projects and learn from others.
